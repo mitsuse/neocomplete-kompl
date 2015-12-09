@@ -1,6 +1,7 @@
 let s:source = {
 \   'name': 'kompl',
 \   'kind': 'manual',
+\   'mark': '[kompl]',
 \   'min_pattern_length': 1,
 \   'max_candidates': 10,
 \ }
